@@ -1,32 +1,55 @@
     # p2pca
-p2pca is the p2p ideas optimization 
+p2pca is   
 
-to have your majority and consensus p2p board of directors
+peer to peer p2p ideas optimization 
 
-it is yours to 
-you can  fork it and pull request
+it is the missing thing for your activities 
+to have your decentralised board of directors 
 
-it useful for p2p innovation 
+it is yours 
+mit licence 
+you can fork it and do  pull request
 
-it is commenting and supporting ideas to have a real vote   
+it is useful for p2p innovation 
 
+it is used for commenting and supporting ideas 
+to have a real vote or consensus    
+
+you can use cytioscape
+arango
 
 to fork it 
 you can think of disqus and google commenting  
+ 
+ tag and ideas containers 
+ and links 
+as the links of blender menu    
 
-and obvious ux 
+  obvious ux 
+
+the voters have key no direct id is used
+the keys can be odtain centralised and used 
+for credentoials not to be used as id
+
 account keys are sent as credentials 
-and the voters dont have all the uses
+  
+ the voters dont have all the uses
 
-commenting
+containrs conitains 
+ideas 
+links to tags
+link to ideas
+support container
+ 
+you can  
+ideate support sort
 
-thumbs support
+ideas  
+commenting ideas 
+ thumbs support
+ comitee support
+ crediting support
+ 
 
-comitee support
-
-crediting support
-
-voting 
-
-
-      
+voting is usualy not done there
+but you can use the thumbs ideate 
